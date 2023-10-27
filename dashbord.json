@@ -370,7 +370,7 @@
           "refId": "StandardVariableQuery"
         },
         "refresh": 2,
-        "regex": "/instance=\"(.*?)\"/",
+        "regex": "/instance=\"(. ?)\"/",
         "skipUrlSync": false,
         "sort": 0,
         "type": "query"
@@ -410,3 +410,4 @@
   "uid": "iXqlPlBnk",
   "version": 20
 }
+ 
